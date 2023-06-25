@@ -18,7 +18,8 @@ My goal is to demonstrate many of the steps I often take during a typical data a
 - Modularizing code (creating functions) for ease of readability, maintainability, and reusability
 - Separating and preserving raw vs processed data
 
-I also plan to add examples of the following to this repo in the near future:
+## Future Updates
+I plan to add examples of the following in the near future to round out the sample of work for a typical analysis task:
 - Handling NULL and blank values (need to find another messier public dataset)
 - Normalizing data (compared to background levels or cleanup criteria, for example)
 - Querying other relevant data from a SQL database or API (this will likely be [US Census population data](https://www.census.gov/data/developers/data-sets/popest-popproj/popest.html)) and executing a spatial join
