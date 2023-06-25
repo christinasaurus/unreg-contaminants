@@ -12,6 +12,9 @@ import pandas as pd
 import glob
 
 
+# ---------------------------------------------------------------------------- #
+#                                   CONSTANTS                                  #
+# ---------------------------------------------------------------------------- #
 RELATIVE_PATH = r'Data\Raw'
 ANALYTICAL_PATHS = glob.glob(RELATIVE_PATH + '/UCMR4_All_*.txt')
 ZIPCODE_PATH = RELATIVE_PATH + '/UCMR4_ZipCodes.txt'
@@ -33,26 +36,88 @@ TARGET_COLS = [
     'AnalyticalResultValue(µg/L)', 'Region', 'State'
     ]
 
+PROMPTS_DICT = {
+    'non-detect representation': ['0', 'half', 'mdl'],
+    'spatial aggregation': ['none', 'state', 'region'],
+    'temporal aggregation': ['none', 'monthly', 'annual']
+}
 
-# GET ANALYTICAL DATA
+
+# ---------------------------------------------------------------------------- #
+#                                   FUNCTIONS                                  #
+# ---------------------------------------------------------------------------- #
+def format_list(l):
+    """
+    Formats a list into a string with list values separated by a comma and space.
+    E.g.: ['hi', 'hello'] --> 'hi, hello'
+
+    Args:
+        l (list): a list of values (non-string values will be converted)
+    Returns:
+        formatted_string: a string containing all list values separated by ', '
+    """
+
+    return ', '.join(map(str, l))
+
+
+def get_response(prompt, accepted_responses):
+    """
+    Gets user input. If an invalid response is provided, continues prompting
+    user for valid response.
+
+    Args:
+        prompt: text to display to user to request response
+        accepted_responses: list of acceptable user responses
+    Returns:
+        result: validated user response for given prompt
+    """
+
+    while True:
+        response = input(prompt).lower()
+        try:
+            accepted_responses.index(response)
+        except:
+            print('Unexpected value. Please enter a value from the prompt.')
+            continue
+        break
+    
+    return response
+
+
+# ---------------------------------------------------------------------------- #
+#                                 PROCESS DATA                                 #
+# ---------------------------------------------------------------------------- #
+
+# --------------------------------- Get Data --------------------------------- #
 analytical_dfs = []
 
-# Glob is used for demonstration, but it is most useful when there are many 
-# files to combine (in this case, there are only two)
 for path in ANALYTICAL_PATHS:
     analytical_dfs.append(pd.read_csv(path, usecols=TARGET_COLS,
                                       sep='\t', lineterminator='\r'))
 
 analytical_df = pd.concat(analytical_dfs, ignore_index=True)
 
-# CLEAN DATA
+# -------------------------------- Clean Data -------------------------------- #
 analytical_df.PWSID = analytical_df.PWSID.str.strip()
 
-# Some Tribal public water systems were assigned to EPA Region Codes (01-10), 
-# but for the sake of demonstration we are interested in grouping this data
-# across geographies. We will leave the Navajo Nation (NN) state as-is.
+# Some Tribal PWSs are represented with an EPA Region Code for their state. 
+# For the sake of demonstration, we are interested in grouping these together
+# under a new "Tribal PWS" State.
 analytical_df.State = analytical_df.State.str.replace(
     r'[0-9]+', 'Tribal PWS', regex=True
     )
 
-print(analytical_df.head(3))
+# ---------------------------- Get User Decisions ---------------------------- #
+user_decisions = {}
+for prompt in PROMPTS_DICT:
+    formatted_request = f'Select {prompt} ({format_list(PROMPTS_DICT[prompt])}):'
+    user_decisions[prompt] = get_response(
+        formatted_request,      # Request to print for user
+        PROMPTS_DICT[prompt]    # List of user-selectable options
+        )
+
+print(
+    '\nData will be processed using the following methods:\n',
+    user_decisions
+    )
+
