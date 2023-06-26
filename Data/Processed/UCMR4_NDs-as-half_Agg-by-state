@@ -1,0 +1,1364 @@
+State,Contaminant,Min (µg/L),Average (µg/L),Max (µg/L)
+AK,1-butanol,1.0,1.0294186046511629,3.53
+AK,2-methoxyethanol,0.2,0.19999999999999998,0.2
+AK,2-propen-1-ol,0.25,0.25,0.25
+AK,HAA5,0.0,13.35289090909091,35.0
+AK,HAA6Br,0.0,0.8846272727272727,3.404
+AK,HAA9,0.0,14.21050909090909,37.8
+AK,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+AK,anatoxin-a,0.015,0.015,0.015
+AK,butylated hydroxyanisole,0.015,0.015,0.015
+AK,chlorpyrifos,0.015,0.015000000000000001,0.015
+AK,cylindrospermopsin,0.045,0.045,0.045
+AK,dimethipin,0.1,0.09999999999999999,0.1
+AK,ethoprop,0.015,0.015000000000000001,0.015
+AK,germanium,0.15,0.18945348837209303,1.29
+AK,manganese,0.2,50.90963953488372,672.0
+AK,o-toluidine,0.0035,0.0034999999999999996,0.0035
+AK,oxyfluorfen,0.025,0.024999999999999998,0.025
+AK,profenofos,0.15,0.15,0.15
+AK,quinoline,0.01,0.01,0.01
+AK,tebuconazole,0.1,0.09999999999999999,0.1
+AK,total microcystin,0.15,0.15,0.15
+AK,total permethrin,0.02,0.02,0.02
+AK,tribufos,0.035,0.035,0.035
+AL,1-butanol,1.0,1.0143631436314364,13.9
+AL,2-methoxyethanol,0.2,0.2,0.2
+AL,2-propen-1-ol,0.25,0.25,0.25
+AL,HAA5,0.0,21.48039994199536,106.47
+AL,HAA6Br,0.0,4.913941415313225,33.9
+AL,HAA9,0.0,25.9516876450116,109.02
+AL,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+AL,anatoxin-a,0.015,0.015058161350844278,0.077
+AL,butylated hydroxyanisole,0.015,0.015000000000000001,0.015
+AL,chlorpyrifos,0.015,0.014999999999999998,0.015
+AL,cylindrospermopsin,0.045,0.045,0.045
+AL,dimethipin,0.1,0.1,0.1
+AL,ethoprop,0.015,0.014999999999999998,0.015
+AL,germanium,0.15,0.1763357206803939,1.2
+AL,manganese,0.2,6.83958818263205,341.0
+AL,o-toluidine,0.0035,0.0035034327009936766,0.0073
+AL,oxyfluorfen,0.025,0.025025247971145175,0.053
+AL,profenofos,0.15,0.15,0.15
+AL,quinoline,0.01,0.010043450767841012,0.0351
+AL,tebuconazole,0.1,0.1,0.1
+AL,total microcystin,0.15,0.15,0.15
+AL,total permethrin,0.02,0.02008295761947701,0.08
+AL,tribufos,0.035,0.035,0.035
+AR,1-butanol,1.0,1.0275261324041811,3.8
+AR,2-methoxyethanol,0.2,0.2,0.2
+AR,2-propen-1-ol,0.25,0.25,0.25
+AR,HAA5,0.0,25.539933566433564,86.811
+AR,HAA6Br,0.0,4.465348117647059,25.509
+AR,HAA9,0.0,29.556703411764705,99.596
+AR,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+AR,anatoxin-a,0.015,0.017008880994671405,0.32
+AR,butylated hydroxyanisole,0.015,0.015538194444444443,0.17
+AR,chlorpyrifos,0.015,0.015,0.015
+AR,cylindrospermopsin,0.045,0.045,0.045
+AR,dimethipin,0.1,0.1,0.1
+AR,ethoprop,0.015,0.015,0.015
+AR,germanium,0.15,0.15,0.15
+AR,manganese,0.2,7.060541958041958,350.0
+AR,o-toluidine,0.0035,0.0035,0.0035
+AR,oxyfluorfen,0.025,0.025,0.025
+AR,profenofos,0.15,0.15,0.15
+AR,quinoline,0.01,0.01,0.01
+AR,tebuconazole,0.1,0.1,0.1
+AR,total microcystin,0.15,0.15,0.15
+AR,total permethrin,0.02,0.02,0.02
+AR,tribufos,0.035,0.035,0.035
+AS,1-butanol,1.0,1.0,1.0
+AS,2-methoxyethanol,0.2,0.2,0.2
+AS,2-propen-1-ol,0.25,0.25,0.25
+AS,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+AS,anatoxin-a,0.015,0.015000000000000001,0.015
+AS,butylated hydroxyanisole,0.015,0.015,0.015
+AS,chlorpyrifos,0.015,0.015,0.015
+AS,cylindrospermopsin,0.045,0.045,0.045
+AS,dimethipin,0.1,0.1,0.1
+AS,ethoprop,0.015,0.015,0.015
+AS,germanium,0.15,0.16158730158730158,0.47
+AS,manganese,0.2,8.153709677419355,480.0
+AS,o-toluidine,0.0035,0.0035,0.0035
+AS,oxyfluorfen,0.025,0.025,0.025
+AS,profenofos,0.15,0.15,0.15
+AS,quinoline,0.01,0.01,0.01
+AS,tebuconazole,0.1,0.1,0.1
+AS,total microcystin,0.15,0.15,0.15
+AS,total permethrin,0.02,0.02,0.02
+AS,tribufos,0.035,0.035,0.035
+AZ,1-butanol,1.0,1.02181598062954,6.07
+AZ,2-methoxyethanol,0.2,0.2,0.2
+AZ,2-propen-1-ol,0.25,0.25,0.25
+AZ,HAA5,0.0,9.140807600950119,68.0
+AZ,HAA6Br,0.0,9.996599762470309,44.4
+AZ,HAA9,0.0,16.44266627078385,105.8
+AZ,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+AZ,anatoxin-a,0.015,0.015,0.015
+AZ,butylated hydroxyanisole,0.015,0.015,0.015
+AZ,chlorpyrifos,0.015,0.014999999999999998,0.015
+AZ,cylindrospermopsin,0.045,0.045,0.045
+AZ,dimethipin,0.1,0.1,0.1
+AZ,ethoprop,0.015,0.014999999999999998,0.015
+AZ,germanium,0.15,0.28912025827280063,1.9
+AZ,manganese,0.2,4.440835351089588,992.0
+AZ,o-toluidine,0.0035,0.0035675828617623283,0.031
+AZ,oxyfluorfen,0.025,0.025,0.025
+AZ,profenofos,0.15,0.15,0.15
+AZ,quinoline,0.01,0.01010048504446241,0.0305
+AZ,tebuconazole,0.1,0.1,0.1
+AZ,total microcystin,0.15,0.15,0.15
+AZ,total permethrin,0.02,0.02,0.02
+AZ,tribufos,0.035,0.035,0.035
+CA,1-butanol,1.0,1.0193289346636627,21.3
+CA,2-methoxyethanol,0.2,0.2004216285806244,2.2
+CA,2-propen-1-ol,0.25,0.25,0.25
+CA,HAA5,0.0,11.164950508558672,158.08
+CA,HAA6Br,0.0,6.714955966261473,83.7
+CA,HAA9,0.0,16.107555197221533,162.38
+CA,alpha-hexachlorocyclohexane,0.005,0.005001776198934281,0.016
+CA,anatoxin-a,0.015,0.015,0.015
+CA,butylated hydroxyanisole,0.015,0.01501082565842624,0.053
+CA,chlorpyrifos,0.015,0.015,0.015
+CA,cylindrospermopsin,0.045,0.045,0.045
+CA,dimethipin,0.1,0.1,0.1
+CA,ethoprop,0.015,0.015,0.015
+CA,germanium,0.15,0.2541351092678258,18.0
+CA,manganese,0.2,4.803603445525602,420.0
+CA,o-toluidine,0.0035,0.0035613200840200355,0.13
+CA,oxyfluorfen,0.025,0.02505732278378815,0.38
+CA,profenofos,0.15,0.15,0.15
+CA,quinoline,0.01,0.010363822911617386,1.5
+CA,tebuconazole,0.1,0.10001776198934281,0.21
+CA,total microcystin,0.15,0.15,0.15
+CA,total permethrin,0.02,0.020003229452607785,0.04
+CA,tribufos,0.035,0.035,0.035
+CO,1-butanol,1.0,1.0709927797833936,12.7
+CO,2-methoxyethanol,0.2,0.2,0.2
+CO,2-propen-1-ol,0.25,0.25064981949458487,0.61
+CO,HAA5,0.0,19.307549126637554,78.23
+CO,HAA6Br,0.0,6.4108415260454885,39.7
+CO,HAA9,0.0,24.664704695524577,79.194
+CO,alpha-hexachlorocyclohexane,0.005,0.0050310218978102195,0.022
+CO,anatoxin-a,0.015,0.015,0.015
+CO,butylated hydroxyanisole,0.015,0.014999999999999998,0.015
+CO,chlorpyrifos,0.015,0.014999999999999998,0.015
+CO,cylindrospermopsin,0.045,0.045,0.045
+CO,dimethipin,0.1,0.1,0.1
+CO,ethoprop,0.015,0.014999999999999998,0.015
+CO,germanium,0.15,0.15749552772808587,1.98
+CO,manganese,0.2,11.267119856887298,764.0
+CO,microcystin-LA,0.004,0.004,0.004
+CO,microcystin-LF,0.003,0.003,0.003
+CO,microcystin-LR,0.01,0.01,0.01
+CO,microcystin-LY,0.0045,0.0045,0.0045
+CO,microcystin-RR,0.003,0.003,0.003
+CO,microcystin-YR,0.01,0.01,0.01
+CO,nodularin,0.0025,0.0025,0.0025
+CO,o-toluidine,0.0035,0.0035,0.0035
+CO,oxyfluorfen,0.025,0.025,0.025
+CO,profenofos,0.15,0.15,0.15
+CO,quinoline,0.01,0.010958070500927645,0.24
+CO,tebuconazole,0.1,0.1,0.1
+CO,total microcystin,0.15,0.15023002159827215,0.363
+CO,total permethrin,0.02,0.02,0.02
+CO,tribufos,0.035,0.035,0.035
+CT,1-butanol,1.0,1.0107784431137725,4.6
+CT,2-methoxyethanol,0.2,0.2224550898203593,7.7
+CT,2-propen-1-ol,0.25,0.25,0.25
+CT,HAA5,0.0,24.862970588235296,113.5
+CT,HAA6Br,0.0,5.49689705882353,15.301
+CT,HAA9,0.0,29.958557486631015,118.5
+CT,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+CT,anatoxin-a,0.015,0.015081218274111675,0.047
+CT,butylated hydroxyanisole,0.015,0.015,0.015
+CT,chlorpyrifos,0.015,0.014999999999999998,0.015
+CT,cylindrospermopsin,0.045,0.045,0.045
+CT,dimethipin,0.1,0.09999999999999999,0.1
+CT,ethoprop,0.015,0.015,0.015
+CT,germanium,0.15,0.15,0.15
+CT,manganese,0.2,36.70326315789474,2280.0
+CT,o-toluidine,0.0035,0.0035,0.0035
+CT,oxyfluorfen,0.025,0.024999999999999998,0.025
+CT,profenofos,0.15,0.15,0.15
+CT,quinoline,0.01,0.01,0.01
+CT,tebuconazole,0.1,0.09999999999999999,0.1
+CT,total microcystin,0.15,0.15,0.15
+CT,total permethrin,0.02,0.02,0.02
+CT,tribufos,0.035,0.035,0.035
+DC,1-butanol,1.0,1.0,1.0
+DC,2-methoxyethanol,0.2,0.2,0.2
+DC,2-propen-1-ol,0.25,0.25,0.25
+DC,HAA5,5.5,34.399850746268655,66.0
+DC,HAA6Br,0.49,8.50313432835821,13.4
+DC,HAA9,5.99,42.55238805970149,74.35
+DC,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+DC,anatoxin-a,0.015,0.015,0.015
+DC,butylated hydroxyanisole,0.015,0.014999999999999998,0.015
+DC,chlorpyrifos,0.015,0.015,0.015
+DC,cylindrospermopsin,0.045,0.045,0.045
+DC,dimethipin,0.1,0.1,0.1
+DC,ethoprop,0.015,0.015,0.015
+DC,germanium,0.15,0.15,0.15
+DC,manganese,0.2,0.76375,1.8
+DC,o-toluidine,0.0035,0.0035,0.0035
+DC,oxyfluorfen,0.025,0.025,0.025
+DC,profenofos,0.15,0.15,0.15
+DC,quinoline,0.01,0.01,0.01
+DC,tebuconazole,0.1,0.1,0.1
+DC,total microcystin,0.15,0.15,0.15
+DC,total permethrin,0.02,0.02,0.02
+DC,tribufos,0.035,0.035,0.035
+DE,1-butanol,1.0,1.0,1.0
+DE,2-methoxyethanol,0.2,0.2,0.2
+DE,2-propen-1-ol,0.25,0.25,0.25
+DE,HAA5,0.0,20.621139240506327,75.83
+DE,HAA6Br,0.0,6.593455696202532,22.03
+DE,HAA9,0.0,26.447867088607595,95.57
+DE,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+DE,anatoxin-a,0.015,0.015,0.015
+DE,butylated hydroxyanisole,0.015,0.015,0.015
+DE,chlorpyrifos,0.015,0.015,0.015
+DE,cylindrospermopsin,0.045,0.045,0.045
+DE,dimethipin,0.1,0.1,0.1
+DE,ethoprop,0.015,0.015,0.015
+DE,germanium,0.15,0.15,0.15
+DE,manganese,0.2,13.28608,178.0
+DE,o-toluidine,0.0035,0.0035,0.0035
+DE,oxyfluorfen,0.025,0.025,0.025
+DE,profenofos,0.15,0.15,0.15
+DE,quinoline,0.01,0.01,0.01
+DE,tebuconazole,0.1,0.1,0.1
+DE,total microcystin,0.15,0.15,0.15
+DE,total permethrin,0.02,0.02,0.02
+DE,tribufos,0.035,0.035,0.035
+FL,1-butanol,1.0,1.03745476673428,13.8256
+FL,2-methoxyethanol,0.2,0.20296957403651117,3.872
+FL,2-propen-1-ol,0.25,0.2532927653820149,1.3
+FL,HAA5,0.0,18.563808391003462,291.66
+FL,HAA6Br,0.0,8.580623702422145,83.5
+FL,HAA9,0.0,25.485276816608994,316.86
+FL,alpha-hexachlorocyclohexane,0.005,0.005010615711252654,0.013
+FL,anatoxin-a,0.015,0.015044917257683215,0.034
+FL,butylated hydroxyanisole,0.015,0.015,0.015
+FL,chlorpyrifos,0.015,0.015,0.015
+FL,cylindrospermopsin,0.045,0.045,0.045
+FL,dimethipin,0.1,0.1,0.1
+FL,ethoprop,0.015,0.015,0.015
+FL,germanium,0.15,0.15337298387096773,1.5
+FL,manganese,0.2,4.037757392473118,1019.7
+FL,o-toluidine,0.0035,0.0035,0.0035
+FL,oxyfluorfen,0.025,0.025,0.025
+FL,profenofos,0.15,0.15,0.15
+FL,quinoline,0.01,0.010023562023562024,0.032
+FL,tebuconazole,0.1,0.1,0.1
+FL,total microcystin,0.15,0.15,0.15
+FL,total permethrin,0.02,0.020282307147912244,0.212
+FL,tribufos,0.035,0.035,0.035
+GA,1-butanol,1.0,1.010909090909091,7.3
+GA,2-methoxyethanol,0.2,0.2,0.2
+GA,2-propen-1-ol,0.25,0.25272727272727274,1.5
+GA,HAA5,0.0,23.38637274655355,128.42
+GA,HAA6Br,0.0,5.218693531283139,20.786
+GA,HAA9,0.0,28.2853934252386,139.65
+GA,alpha-hexachlorocyclohexane,0.005,0.005011614401858305,0.015
+GA,anatoxin-a,0.015,0.015425283630470016,0.105
+GA,butylated hydroxyanisole,0.015,0.015,0.015
+GA,chlorpyrifos,0.015,0.015,0.015
+GA,cylindrospermopsin,0.045,0.045,0.045
+GA,dimethipin,0.1,0.1,0.1
+GA,ethoprop,0.015,0.01503019744483159,0.041
+GA,germanium,0.15,0.152725,0.664
+GA,manganese,0.2,13.518140909090908,1300.0
+GA,o-toluidine,0.0035,0.003546078431372549,0.039
+GA,oxyfluorfen,0.025,0.025,0.025
+GA,profenofos,0.15,0.15,0.15
+GA,quinoline,0.01,0.01,0.01
+GA,tebuconazole,0.1,0.1,0.1
+GA,total microcystin,0.15,0.15,0.15
+GA,total permethrin,0.02,0.02,0.02
+GA,tribufos,0.035,0.035,0.035
+GU,1-butanol,1.0,1.021551724137931,3.5
+GU,2-methoxyethanol,0.2,0.2,0.2
+GU,2-propen-1-ol,0.25,0.25,0.25
+GU,HAA5,0.32,11.136622222222222,33.1
+GU,HAA6Br,0.32,7.587088888888888,22.9
+GU,HAA9,0.32,16.83391111111111,49.9
+GU,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+GU,anatoxin-a,0.015,0.015,0.015
+GU,butylated hydroxyanisole,0.015,0.015,0.015
+GU,chlorpyrifos,0.015,0.015,0.015
+GU,cylindrospermopsin,0.045,0.045000000000000005,0.045
+GU,dimethipin,0.1,0.1,0.1
+GU,ethoprop,0.015,0.015,0.015
+GU,germanium,0.15,0.15,0.15
+GU,manganese,0.2,1.8014513888888888,110.0
+GU,o-toluidine,0.0035,0.0035,0.0035
+GU,oxyfluorfen,0.025,0.025,0.025
+GU,profenofos,0.15,0.15,0.15
+GU,quinoline,0.01,0.010000000000000002,0.01
+GU,tebuconazole,0.1,0.1,0.1
+GU,total microcystin,0.15,0.15,0.15
+GU,total permethrin,0.02,0.02,0.02
+GU,tribufos,0.035,0.035,0.035
+HI,1-butanol,1.0,1.105141065830721,12.3
+HI,2-methoxyethanol,0.2,0.2,0.2
+HI,2-propen-1-ol,0.25,0.25,0.25
+HI,HAA5,0.0,7.552261904761905,88.4
+HI,HAA6Br,0.0,3.055015873015873,10.7
+HI,HAA9,0.0,9.97529365079365,93.6
+HI,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+HI,anatoxin-a,0.015,0.015,0.015
+HI,butylated hydroxyanisole,0.015,0.015046583850931676,0.03
+HI,chlorpyrifos,0.015,0.015000000000000001,0.015
+HI,cylindrospermopsin,0.045,0.045,0.045
+HI,dimethipin,0.1,0.1,0.1
+HI,ethoprop,0.015,0.015000000000000001,0.015
+HI,germanium,0.15,0.15319148936170213,1.2
+HI,manganese,0.2,0.9804407294832826,91.0
+HI,o-toluidine,0.0035,0.0035,0.0035
+HI,oxyfluorfen,0.025,0.025,0.025
+HI,profenofos,0.15,0.15,0.15
+HI,quinoline,0.01,0.01,0.01
+HI,tebuconazole,0.1,0.1,0.1
+HI,total microcystin,0.15,0.15,0.15
+HI,total permethrin,0.02,0.02,0.02
+HI,tribufos,0.035,0.035,0.035
+IA,1-butanol,1.0,1.0868217054263565,15.0
+IA,2-methoxyethanol,0.2,0.2,0.2
+IA,2-propen-1-ol,0.25,0.25,0.25
+IA,HAA5,0.0,12.160565365025468,67.52
+IA,HAA6Br,0.0,6.327784380305602,30.4
+IA,HAA9,0.0,17.3226078098472,85.12
+IA,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+IA,anatoxin-a,0.015,0.016175182481751822,0.26
+IA,butylated hydroxyanisole,0.015,0.015,0.015
+IA,chlorpyrifos,0.015,0.015,0.015
+IA,cylindrospermopsin,0.045,0.045,0.045
+IA,dimethipin,0.1,0.1,0.1
+IA,ethoprop,0.015,0.015,0.015
+IA,germanium,0.15,0.17478764478764477,2.7
+IA,manganese,0.2,12.385945945945947,687.0
+IA,o-toluidine,0.0035,0.003820472440944882,0.017
+IA,oxyfluorfen,0.025,0.025,0.025
+IA,profenofos,0.15,0.15,0.15
+IA,quinoline,0.01,0.015374015748031497,0.51
+IA,tebuconazole,0.1,0.1,0.1
+IA,total microcystin,0.15,0.15,0.15
+IA,total permethrin,0.02,0.02,0.02
+IA,tribufos,0.035,0.035,0.035
+ID,1-butanol,1.0,1.0,1.0
+ID,2-methoxyethanol,0.2,0.19999999999999998,0.2
+ID,2-propen-1-ol,0.25,0.25,0.25
+ID,HAA5,0.0,7.62651497005988,61.0
+ID,HAA6Br,0.0,2.313119760479042,17.832
+ID,HAA9,0.0,9.254952095808383,63.8
+ID,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+ID,anatoxin-a,0.015,0.015,0.015
+ID,butylated hydroxyanisole,0.015,0.014999999999999998,0.015
+ID,chlorpyrifos,0.015,0.015,0.015
+ID,cylindrospermopsin,0.045,0.045,0.045
+ID,dimethipin,0.1,0.09999999999999999,0.1
+ID,ethoprop,0.015,0.015,0.015
+ID,germanium,0.15,0.3490421348314607,6.884
+ID,manganese,0.2,14.417494382022472,321.0
+ID,o-toluidine,0.0035,0.0035743801652892565,0.0182
+ID,oxyfluorfen,0.025,0.024999999999999998,0.025
+ID,profenofos,0.15,0.15,0.15
+ID,quinoline,0.01,0.01,0.01
+ID,tebuconazole,0.1,0.09999999999999999,0.1
+ID,total microcystin,0.15,0.15,0.15
+ID,total permethrin,0.02,0.02,0.02
+ID,tribufos,0.035,0.035,0.035
+IL,1-butanol,1.0,1.0066401062416999,5.7
+IL,2-methoxyethanol,0.2,0.20861221779548475,3.2
+IL,2-propen-1-ol,0.25,0.25063081009296145,1.2
+IL,HAA5,0.0,15.552797660453807,464.947
+IL,HAA6Br,0.0,7.741935788336052,33.27
+IL,HAA9,0.0,22.113267992251224,480.627
+IL,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+IL,anatoxin-a,0.015,0.015,0.015
+IL,butylated hydroxyanisole,0.015,0.015029042904290428,0.059
+IL,chlorpyrifos,0.015,0.015000000000000001,0.015
+IL,cylindrospermopsin,0.045,0.045,0.045
+IL,dimethipin,0.1,0.1,0.1
+IL,ethoprop,0.015,0.015000000000000001,0.015
+IL,germanium,0.15,0.17259646643109539,1.298
+IL,manganese,0.2,5.753922685512368,384.38
+IL,o-toluidine,0.0035,0.0035590099009900986,0.016
+IL,oxyfluorfen,0.025,0.025,0.025
+IL,profenofos,0.15,0.15,0.15
+IL,quinoline,0.01,0.010187458745874588,0.057
+IL,tebuconazole,0.1,0.1,0.1
+IL,total microcystin,0.15,0.15011926605504586,0.371
+IL,total permethrin,0.02,0.020019736842105264,0.05
+IL,tribufos,0.035,0.035,0.035
+IN,1-butanol,1.0,1.0114285714285716,5.8
+IN,2-methoxyethanol,0.2,0.2,0.2
+IN,2-propen-1-ol,0.25,0.25273809523809526,1.4
+IN,HAA5,0.0,15.624441358024692,131.86
+IN,HAA6Br,0.0,6.050458546571136,42.09
+IN,HAA9,0.0,20.82949074074074,168.77
+IN,alpha-hexachlorocyclohexane,0.005,0.005025821596244131,0.016
+IN,anatoxin-a,0.015,0.015,0.015
+IN,butylated hydroxyanisole,0.015,0.015,0.015
+IN,chlorpyrifos,0.015,0.015,0.015
+IN,cylindrospermopsin,0.045,0.045000000000000005,0.045
+IN,dimethipin,0.1,0.1,0.1
+IN,ethoprop,0.015,0.015,0.015
+IN,germanium,0.15,0.15992056074766356,0.7
+IN,manganese,0.2,21.41831308411215,860.0
+IN,o-toluidine,0.0035,0.0035094117647058824,0.0075
+IN,oxyfluorfen,0.025,0.025,0.025
+IN,profenofos,0.15,0.15,0.15
+IN,quinoline,0.01,0.010044705882352942,0.029
+IN,tebuconazole,0.1,0.1,0.1
+IN,total microcystin,0.15,0.15,0.15
+IN,total permethrin,0.02,0.02,0.02
+IN,tribufos,0.035,0.035,0.035
+KS,1-butanol,1.0,1.0,1.0
+KS,2-methoxyethanol,0.2,0.2,0.2
+KS,2-propen-1-ol,0.25,0.25,0.25
+KS,HAA5,0.0,17.61418686868687,140.031
+KS,HAA6Br,0.0,9.840752093802346,65.4
+KS,HAA9,0.0,25.443934343434343,160.421
+KS,alpha-hexachlorocyclohexane,0.005,0.004999999999999999,0.005
+KS,anatoxin-a,0.015,0.01643312101910828,0.36
+KS,butylated hydroxyanisole,0.015,0.015,0.015
+KS,chlorpyrifos,0.015,0.015,0.015
+KS,cylindrospermopsin,0.045,0.04764126984126984,0.877
+KS,dimethipin,0.1,0.1,0.1
+KS,ethoprop,0.015,0.015,0.015
+KS,germanium,0.15,0.19418143459915613,0.9
+KS,manganese,0.2,7.273118143459916,300.0
+KS,o-toluidine,0.0035,0.0035,0.0035
+KS,oxyfluorfen,0.025,0.025,0.025
+KS,profenofos,0.15,0.15,0.15
+KS,quinoline,0.01,0.009999999999999998,0.01
+KS,tebuconazole,0.1,0.1,0.1
+KS,total microcystin,0.15,0.15,0.15
+KS,total permethrin,0.02,0.019999999999999997,0.02
+KS,tribufos,0.035,0.035,0.035
+KY,1-butanol,1.0,1.2283636363636363,16.8
+KY,2-methoxyethanol,0.2,0.20772727272727273,3.94
+KY,2-propen-1-ol,0.25,0.25,0.25
+KY,HAA5,0.0,30.175188044109113,103.864
+KY,HAA6Br,0.0,6.583465777262181,54.4
+KY,HAA9,0.0,36.191796865931515,120.186
+KY,alpha-hexachlorocyclohexane,0.005,0.0051338898163606015,0.067
+KY,anatoxin-a,0.015,0.015081747873163185,0.0535
+KY,butylated hydroxyanisole,0.015,0.015,0.015
+KY,chlorpyrifos,0.015,0.015041736227045075,0.04
+KY,cylindrospermopsin,0.045,0.04510054137664346,0.175
+KY,dimethipin,0.1,0.10452420701168616,2.81
+KY,ethoprop,0.015,0.015398998330550919,0.21
+KY,germanium,0.15,0.15033003300330033,0.35
+KY,manganese,0.2,4.453161716171617,422.0
+KY,o-toluidine,0.0035,0.003535953565505804,0.015
+KY,oxyfluorfen,0.025,0.025147913188647748,0.0828
+KY,profenofos,0.15,0.15189649415692819,0.848
+KY,quinoline,0.01,0.010019402985074628,0.0217
+KY,tebuconazole,0.1,0.1033272120200334,1.96
+KY,total microcystin,0.15,0.15013899613899614,0.33
+KY,total permethrin,0.02,0.020161769616026712,0.0491
+KY,tribufos,0.035,0.0352390651085142,0.139
+LA,1-butanol,1.0,1.0252396166134186,10.3
+LA,2-methoxyethanol,0.2,0.2,0.2
+LA,2-propen-1-ol,0.25,0.2554792332268371,1.2
+LA,HAA5,0.0,22.370280042918452,186.04
+LA,HAA6Br,0.0,8.648827253218885,60.4
+LA,HAA9,0.0,29.51622424892704,204.36
+LA,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+LA,anatoxin-a,0.015,0.015,0.015
+LA,butylated hydroxyanisole,0.015,0.015000000000000001,0.015
+LA,chlorpyrifos,0.015,0.015000000000000001,0.015
+LA,cylindrospermopsin,0.045,0.045,0.045
+LA,dimethipin,0.1,0.1,0.1
+LA,ethoprop,0.015,0.015000000000000001,0.015
+LA,germanium,0.15,0.47776827371695174,9.87
+LA,manganese,0.2,21.042438569206844,1170.0
+LA,o-toluidine,0.0035,0.0035,0.0035
+LA,oxyfluorfen,0.025,0.025,0.025
+LA,profenofos,0.15,0.15,0.15
+LA,quinoline,0.01,0.010448902821316615,0.0864
+LA,tebuconazole,0.1,0.1,0.1
+LA,total microcystin,0.15,0.15,0.15
+LA,total permethrin,0.02,0.02,0.02
+LA,tribufos,0.035,0.03559934318555009,0.4
+MA,1-butanol,1.0,1.0295396419437342,9.95
+MA,2-methoxyethanol,0.2,0.2004765558397272,0.759
+MA,2-propen-1-ol,0.25,0.25,0.25
+MA,HAA5,0.0,19.011089675359234,100.331
+MA,HAA6Br,0.0,6.1277269824374665,59.5
+MA,HAA9,0.0,24.33539356040447,125.701
+MA,alpha-hexachlorocyclohexane,0.005,0.005006962576153177,0.013
+MA,anatoxin-a,0.015,0.015,0.015
+MA,butylated hydroxyanisole,0.015,0.015,0.015
+MA,chlorpyrifos,0.015,0.015,0.015
+MA,cylindrospermopsin,0.045,0.045,0.045
+MA,dimethipin,0.1,0.1,0.1
+MA,ethoprop,0.015,0.015,0.015
+MA,germanium,0.15,0.15257263513513514,1.155
+MA,manganese,0.2,42.55235219594594,2550.0
+MA,o-toluidine,0.0035,0.003531138698630137,0.0207
+MA,oxyfluorfen,0.025,0.025,0.025
+MA,profenofos,0.15,0.15,0.15
+MA,quinoline,0.01,0.010479640718562874,0.18
+MA,tebuconazole,0.1,0.1,0.1
+MA,total microcystin,0.15,0.15,0.15
+MA,total permethrin,0.02,0.02,0.02
+MA,tribufos,0.035,0.035,0.035
+MD,1-butanol,1.0,1.0,1.0
+MD,2-methoxyethanol,0.2,0.2,0.2
+MD,2-propen-1-ol,0.25,0.25,0.25
+MD,HAA5,0.0,23.719023529411764,251.1
+MD,HAA6Br,0.0,5.667063973063973,30.6
+MD,HAA9,0.0,28.97005387205387,259.4
+MD,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+MD,anatoxin-a,0.015,0.015222307692307691,0.0728
+MD,butylated hydroxyanisole,0.015,0.015,0.015
+MD,chlorpyrifos,0.015,0.015,0.015
+MD,cylindrospermopsin,0.045,0.045,0.045
+MD,dimethipin,0.1,0.1,0.1
+MD,ethoprop,0.015,0.015,0.015
+MD,germanium,0.15,0.15148148148148147,0.34
+MD,manganese,0.2,11.248995884773661,320.0
+MD,o-toluidine,0.0035,0.0035,0.0035
+MD,oxyfluorfen,0.025,0.025,0.025
+MD,profenofos,0.15,0.15,0.15
+MD,quinoline,0.01,0.01,0.01
+MD,tebuconazole,0.1,0.1,0.1
+MD,total microcystin,0.15,0.15,0.15
+MD,total permethrin,0.02,0.02,0.02
+MD,tribufos,0.035,0.035,0.035
+ME,1-butanol,1.0,1.0,1.0
+ME,2-methoxyethanol,0.2,0.2,0.2
+ME,2-propen-1-ol,0.25,0.25,0.25
+ME,HAA5,0.298,19.074329896907216,52.55
+ME,HAA6Br,0.0,2.30259793814433,11.386
+ME,HAA9,0.298,21.295288659793815,58.186
+ME,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+ME,anatoxin-a,0.015,0.015000000000000001,0.015
+ME,butylated hydroxyanisole,0.015,0.015,0.015
+ME,chlorpyrifos,0.015,0.015,0.015
+ME,cylindrospermopsin,0.045,0.045,0.045
+ME,dimethipin,0.1,0.1,0.1
+ME,ethoprop,0.015,0.015,0.015
+ME,germanium,0.15,0.15,0.15
+ME,manganese,0.2,120.13892045454546,3960.0
+ME,o-toluidine,0.0035,0.0035,0.0035
+ME,oxyfluorfen,0.025,0.025,0.025
+ME,profenofos,0.15,0.15,0.15
+ME,quinoline,0.01,0.01,0.01
+ME,tebuconazole,0.1,0.1,0.1
+ME,total microcystin,0.15,0.14999999999999997,0.15
+ME,total permethrin,0.02,0.02,0.02
+ME,tribufos,0.035,0.035,0.035
+MI,1-butanol,1.0,1.0332162921348313,13.7
+MI,2-methoxyethanol,0.2,0.24723876404494385,26.3
+MI,2-propen-1-ol,0.25,0.25,0.25
+MI,HAA5,0.0,16.42590387788779,69.766
+MI,HAA6Br,0.0,7.771552805280527,22.099
+MI,HAA9,0.0,23.296070544554457,79.601
+MI,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+MI,anatoxin-a,0.015,0.015,0.015
+MI,butylated hydroxyanisole,0.015,0.015000000000000001,0.015
+MI,chlorpyrifos,0.015,0.015,0.015
+MI,cylindrospermopsin,0.045,0.045,0.045
+MI,dimethipin,0.1,0.1,0.1
+MI,ethoprop,0.015,0.015,0.015
+MI,germanium,0.15,0.16012239221140473,4.7
+MI,manganese,0.2,18.470311543810848,485.06
+MI,o-toluidine,0.0035,0.0035936619718309856,0.0562
+MI,oxyfluorfen,0.025,0.025110481586402267,0.103
+MI,profenofos,0.15,0.15,0.15
+MI,quinoline,0.01,0.01,0.01
+MI,tebuconazole,0.1,0.1,0.1
+MI,total microcystin,0.15,0.15,0.15
+MI,total permethrin,0.02,0.02,0.02
+MI,tribufos,0.035,0.035,0.035
+MN,1-butanol,1.0,1.0795431235431237,23.8
+MN,2-methoxyethanol,0.2,0.20081118881118884,0.548
+MN,2-propen-1-ol,0.25,0.2517715617715618,1.01
+MN,HAA5,0.0,11.340739197530864,56.4
+MN,HAA6Br,0.0,2.9151604938271607,19.604
+MN,HAA9,0.0,13.908408950617282,71.186
+MN,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+MN,anatoxin-a,0.015,0.014999999999999998,0.015
+MN,butylated hydroxyanisole,0.015,0.015,0.015
+MN,chlorpyrifos,0.015,0.015,0.015
+MN,cylindrospermopsin,0.045,0.045,0.045
+MN,dimethipin,0.1,0.1,0.1
+MN,ethoprop,0.015,0.015,0.015
+MN,germanium,0.15,0.15872018348623854,1.95
+MN,manganese,0.2,37.643428899082565,872.0
+MN,o-toluidine,0.0035,0.0035,0.0035
+MN,oxyfluorfen,0.025,0.025,0.025
+MN,profenofos,0.15,0.14999999999999997,0.15
+MN,quinoline,0.01,0.010000000000000002,0.01
+MN,tebuconazole,0.1,0.1,0.1
+MN,total microcystin,0.15,0.15,0.15
+MN,total permethrin,0.02,0.02,0.02
+MN,tribufos,0.035,0.035,0.035
+MO,1-butanol,1.0,1.0070886075949368,3.8
+MO,2-methoxyethanol,0.2,0.21450632911392406,5.7
+MO,2-propen-1-ol,0.25,0.25316455696202533,1.5
+MO,HAA5,0.0,18.059962603878116,107.7
+MO,HAA6Br,0.0,4.485925207756233,36.1
+MO,HAA9,0.0,22.068981994459833,110.75
+MO,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+MO,anatoxin-a,0.015,0.015,0.015
+MO,butylated hydroxyanisole,0.015,0.015,0.015
+MO,chlorpyrifos,0.015,0.015,0.015
+MO,cylindrospermopsin,0.045,0.045,0.045
+MO,dimethipin,0.1,0.1,0.1
+MO,ethoprop,0.015,0.015,0.015
+MO,germanium,0.15,0.1505223880597015,0.36
+MO,manganese,0.2,1.7801044776119401,43.1
+MO,o-toluidine,0.0035,0.003907940446650124,0.093
+MO,oxyfluorfen,0.025,0.025,0.025
+MO,profenofos,0.15,0.15,0.15
+MO,quinoline,0.01,0.01,0.01
+MO,tebuconazole,0.1,0.1,0.1
+MO,total microcystin,0.15,0.15,0.15
+MO,total permethrin,0.02,0.02,0.02
+MO,tribufos,0.035,0.035,0.035
+MP,1-butanol,1.0,1.0,1.0
+MP,2-methoxyethanol,0.2,0.2,0.2
+MP,2-propen-1-ol,0.25,0.25,0.25
+MP,HAA5,0.53,1.64375,3.45
+MP,HAA6Br,0.53,1.7337500000000001,4.54
+MP,HAA9,0.53,2.0300000000000002,4.54
+MP,alpha-hexachlorocyclohexane,0.005,0.004999999999999999,0.005
+MP,butylated hydroxyanisole,0.015,0.015,0.015
+MP,chlorpyrifos,0.015,0.015,0.015
+MP,dimethipin,0.1,0.1,0.1
+MP,ethoprop,0.015,0.015,0.015
+MP,germanium,0.15,0.17727272727272725,0.4
+MP,manganese,0.2,0.25696969696969696,1.0
+MP,o-toluidine,0.0035,0.0035,0.0035
+MP,oxyfluorfen,0.025,0.025,0.025
+MP,profenofos,0.15,0.15,0.15
+MP,quinoline,0.01,0.01,0.01
+MP,tebuconazole,0.1,0.1,0.1
+MP,total permethrin,0.02,0.019999999999999997,0.02
+MP,tribufos,0.035,0.035,0.035
+MS,1-butanol,1.0,1.0166666666666666,6.5
+MS,2-methoxyethanol,0.2,0.20048333333333335,0.49
+MS,2-propen-1-ol,0.25,0.25125,1.0
+MS,HAA5,0.0,14.096888307155323,114.7
+MS,HAA6Br,0.0,4.142258289703316,44.1
+MS,HAA9,0.0,17.47750785340314,118.4
+MS,alpha-hexachlorocyclohexane,0.005,0.005046692607003891,0.022
+MS,anatoxin-a,0.015,0.015,0.015
+MS,butylated hydroxyanisole,0.015,0.015193602693602695,0.13
+MS,chlorpyrifos,0.015,0.015,0.015
+MS,cylindrospermopsin,0.045,0.045,0.045
+MS,dimethipin,0.1,0.1,0.1
+MS,ethoprop,0.015,0.015,0.015
+MS,germanium,0.15,0.36022690437601296,6.0
+MS,manganese,0.2,13.218017828200972,260.0
+MS,o-toluidine,0.0035,0.0035462962962962965,0.031
+MS,oxyfluorfen,0.025,0.025,0.025
+MS,profenofos,0.15,0.15,0.15
+MS,quinoline,0.01,0.01014625850340136,0.096
+MS,tebuconazole,0.1,0.1,0.1
+MS,total microcystin,0.15,0.15,0.15
+MS,total permethrin,0.02,0.02,0.02
+MS,tribufos,0.035,0.035,0.035
+MT,1-butanol,1.0,1.0,1.0
+MT,2-methoxyethanol,0.2,0.2,0.2
+MT,2-propen-1-ol,0.25,0.25,0.25
+MT,HAA5,0.0,28.204925675675675,77.2
+MT,HAA6Br,0.0,4.83725,16.0
+MT,HAA9,0.0,32.85616216216216,81.8
+MT,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+MT,anatoxin-a,0.015,0.015,0.015
+MT,butylated hydroxyanisole,0.015,0.015,0.015
+MT,chlorpyrifos,0.015,0.015,0.015
+MT,cylindrospermopsin,0.045,0.045,0.045
+MT,dimethipin,0.1,0.1,0.1
+MT,ethoprop,0.015,0.015,0.015
+MT,germanium,0.15,0.2670967741935484,4.2
+MT,manganese,0.2,3.2641370967741934,55.0
+MT,o-toluidine,0.0035,0.0035,0.0035
+MT,oxyfluorfen,0.025,0.025,0.025
+MT,profenofos,0.15,0.15,0.15
+MT,quinoline,0.01,0.01,0.01
+MT,tebuconazole,0.1,0.1,0.1
+MT,total microcystin,0.15,0.15,0.15
+MT,total permethrin,0.02,0.02,0.02
+MT,tribufos,0.035,0.035,0.035
+NC,1-butanol,1.0,1.0136884848484848,8.46
+NC,2-methoxyethanol,0.2,0.2,0.2
+NC,2-propen-1-ol,0.25,0.2523962121212121,1.7
+NC,HAA5,0.0,27.064322929936306,277.8
+NC,HAA6Br,0.0,7.015476857749469,63.9
+NC,HAA9,0.0,33.3155,287.2
+NC,alpha-hexachlorocyclohexane,0.005,0.005004573170731707,0.011
+NC,anatoxin-a,0.015,0.015230046948356807,0.0741
+NC,butylated hydroxyanisole,0.015,0.015,0.015
+NC,chlorpyrifos,0.015,0.015,0.015
+NC,cylindrospermopsin,0.045,0.045,0.045
+NC,dimethipin,0.1,0.10000000000000002,0.1
+NC,ethoprop,0.015,0.015,0.015
+NC,germanium,0.15,0.1571385767790262,0.93
+NC,manganese,0.2,20.792089138576777,1120.0
+NC,o-toluidine,0.0035,0.003504594180704441,0.0095
+NC,oxyfluorfen,0.025,0.025000000000000005,0.025
+NC,profenofos,0.15,0.15,0.15
+NC,quinoline,0.01,0.010042113323124043,0.0357
+NC,tebuconazole,0.1,0.10000000000000002,0.1
+NC,total microcystin,0.15,0.15,0.15
+NC,total permethrin,0.02,0.02,0.02
+NC,tribufos,0.035,0.035,0.035
+ND,1-butanol,1.0,1.411190476190476,18.27
+ND,2-methoxyethanol,0.2,0.2,0.2
+ND,2-propen-1-ol,0.25,0.25,0.25
+ND,HAA5,0.0,14.117054945054946,71.0
+ND,HAA6Br,0.0,4.269417582417582,24.183
+ND,HAA9,0.0,17.50954945054945,82.26
+ND,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+ND,anatoxin-a,0.015,0.015,0.015
+ND,butylated hydroxyanisole,0.015,0.015,0.015
+ND,chlorpyrifos,0.015,0.015,0.015
+ND,cylindrospermopsin,0.045,0.045,0.045
+ND,dimethipin,0.1,0.10000000000000002,0.1
+ND,ethoprop,0.015,0.015,0.015
+ND,germanium,0.15,0.15,0.15
+ND,manganese,0.2,5.3537380952380955,170.0
+ND,o-toluidine,0.0035,0.0035000000000000005,0.0035
+ND,oxyfluorfen,0.025,0.025000000000000005,0.025
+ND,profenofos,0.15,0.15,0.15
+ND,quinoline,0.01,0.01,0.01
+ND,tebuconazole,0.1,0.10000000000000002,0.1
+ND,total microcystin,0.15,0.15,0.15
+ND,total permethrin,0.02,0.02,0.02
+ND,tribufos,0.035,0.035,0.035
+NE,1-butanol,1.0,1.033157894736842,3.9
+NE,2-methoxyethanol,0.2,0.2,0.2
+NE,2-propen-1-ol,0.25,0.2513971291866029,0.542
+NE,HAA5,0.0,17.143075757575758,54.61
+NE,HAA6Br,0.0,13.550136363636364,42.53
+NE,HAA9,0.0,28.15823484848485,81.21
+NE,alpha-hexachlorocyclohexane,0.005,0.004999999999999999,0.005
+NE,anatoxin-a,0.015,0.015,0.015
+NE,butylated hydroxyanisole,0.015,0.015,0.015
+NE,chlorpyrifos,0.015,0.015,0.015
+NE,cylindrospermopsin,0.045,0.045,0.045
+NE,dimethipin,0.1,0.1,0.1
+NE,ethoprop,0.015,0.015,0.015
+NE,germanium,0.15,0.1605598086124402,0.53
+NE,manganese,0.2,30.104966507177036,619.84
+NE,o-toluidine,0.0035,0.0035,0.0035
+NE,oxyfluorfen,0.025,0.025,0.025
+NE,profenofos,0.15,0.15,0.15
+NE,quinoline,0.01,0.010094660194174756,0.0295
+NE,tebuconazole,0.1,0.1,0.1
+NE,total microcystin,0.15,0.15,0.15
+NE,total permethrin,0.02,0.019999999999999997,0.02
+NE,tribufos,0.035,0.035,0.035
+NH,1-butanol,1.0,1.0,1.0
+NH,2-methoxyethanol,0.2,0.20231404958677687,0.48
+NH,2-propen-1-ol,0.25,0.25,0.25
+NH,HAA5,0.0,15.518096551724136,95.0
+NH,HAA6Br,0.0,4.236493103448276,26.9
+NH,HAA9,0.0,19.313779310344827,98.8
+NH,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+NH,anatoxin-a,0.015,0.015,0.015
+NH,butylated hydroxyanisole,0.015,0.015,0.015
+NH,chlorpyrifos,0.015,0.015,0.015
+NH,cylindrospermopsin,0.045,0.045,0.045
+NH,dimethipin,0.1,0.1,0.1
+NH,ethoprop,0.015,0.015,0.015
+NH,germanium,0.15,0.15,0.15
+NH,manganese,0.2,29.32466153846154,390.0
+NH,o-toluidine,0.0035,0.0035,0.0035
+NH,oxyfluorfen,0.025,0.025,0.025
+NH,profenofos,0.15,0.15,0.15
+NH,quinoline,0.01,0.010912698412698412,0.125
+NH,tebuconazole,0.1,0.1,0.1
+NH,total microcystin,0.15,0.15,0.15
+NH,total permethrin,0.02,0.02,0.02
+NH,tribufos,0.035,0.035,0.035
+NJ,1-butanol,1.0,1.019849439683586,9.5816
+NJ,2-methoxyethanol,0.2,0.2003111404087014,0.47
+NJ,2-propen-1-ol,0.25,0.2527851021753461,1.3
+NJ,HAA5,0.0,15.50818801313629,154.2
+NJ,HAA6Br,0.0,5.051980271270037,23.982
+NJ,HAA9,0.0,19.869692307692308,158.9
+NJ,alpha-hexachlorocyclohexane,0.005,0.00500658327847268,0.01
+NJ,anatoxin-a,0.015,0.028406091370558377,13.22
+NJ,butylated hydroxyanisole,0.015,0.015000000000000001,0.015
+NJ,chlorpyrifos,0.015,0.015,0.015
+NJ,cylindrospermopsin,0.045,0.045180485338725984,0.2235
+NJ,dimethipin,0.1,0.10012310730743912,0.287
+NJ,ethoprop,0.015,0.015021066491112574,0.047
+NJ,germanium,0.15,0.1528650586701434,0.66
+NJ,manganese,0.2,11.096528683181226,690.0
+NJ,o-toluidine,0.0035,0.0036362615587846765,0.119
+NJ,oxyfluorfen,0.025,0.025,0.025
+NJ,profenofos,0.15,0.15,0.15
+NJ,quinoline,0.01,0.01000990752972259,0.025
+NJ,tebuconazole,0.1,0.1,0.1
+NJ,total microcystin,0.15,0.15,0.15
+NJ,total permethrin,0.02,0.02,0.02
+NJ,tribufos,0.035,0.035,0.035
+NM,1-butanol,1.0,1.0535315985130111,7.6
+NM,2-methoxyethanol,0.2,0.2,0.2
+NM,2-propen-1-ol,0.25,0.25,0.25
+NM,HAA5,0.0,8.504847826086957,57.5
+NM,HAA6Br,0.0,5.697291925465839,25.3
+NM,HAA9,0.0,12.857,62.94
+NM,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+NM,anatoxin-a,0.015,0.015,0.015
+NM,butylated hydroxyanisole,0.015,0.015,0.015
+NM,chlorpyrifos,0.015,0.015,0.015
+NM,cylindrospermopsin,0.045,0.045,0.045
+NM,dimethipin,0.1,0.1,0.1
+NM,ethoprop,0.015,0.015,0.015
+NM,germanium,0.15,0.2788550724637681,1.7
+NM,manganese,0.2,16.56445652173913,600.0
+NM,o-toluidine,0.0035,0.00351310861423221,0.007
+NM,oxyfluorfen,0.025,0.025,0.025
+NM,profenofos,0.15,0.15,0.15
+NM,quinoline,0.01,0.01,0.01
+NM,tebuconazole,0.1,0.1,0.1
+NM,total microcystin,0.15,0.15,0.15
+NM,total permethrin,0.02,0.02,0.02
+NM,tribufos,0.035,0.035,0.035
+NN,1-butanol,1.0,1.0,1.0
+NN,2-methoxyethanol,0.2,0.2,0.2
+NN,2-propen-1-ol,0.25,0.25,0.25
+NN,HAA5,0.0,15.929333333333332,38.516
+NN,HAA6Br,0.0,6.9801111111111105,20.571
+NN,HAA9,0.0,21.570629629629625,51.286
+NN,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+NN,anatoxin-a,0.015,0.015,0.015
+NN,butylated hydroxyanisole,0.015,0.015,0.015
+NN,chlorpyrifos,0.015,0.015,0.015
+NN,cylindrospermopsin,0.045,0.045,0.045
+NN,dimethipin,0.1,0.1,0.1
+NN,ethoprop,0.015,0.015,0.015
+NN,germanium,0.15,0.4522727272727272,3.6
+NN,manganese,0.2,21.965818181818182,130.0
+NN,o-toluidine,0.0035,0.003952380952380953,0.013
+NN,oxyfluorfen,0.025,0.025,0.025
+NN,profenofos,0.15,0.15,0.15
+NN,quinoline,0.01,0.01,0.01
+NN,tebuconazole,0.1,0.1,0.1
+NN,total microcystin,0.15,0.15,0.15
+NN,total permethrin,0.02,0.02,0.02
+NN,tribufos,0.035,0.035,0.035
+NV,1-butanol,1.0,1.0124513618677042,4.2
+NV,2-methoxyethanol,0.2,0.20175097276264592,0.65
+NV,2-propen-1-ol,0.25,0.25,0.25
+NV,HAA5,0.0,18.140692063492065,52.0
+NV,HAA6Br,0.0,12.075676190476191,29.02
+NV,HAA9,0.0,28.46650158730159,65.62
+NV,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+NV,anatoxin-a,0.015,0.015,0.015
+NV,butylated hydroxyanisole,0.015,0.015,0.015
+NV,chlorpyrifos,0.015,0.015,0.015
+NV,cylindrospermopsin,0.045,0.045,0.045
+NV,dimethipin,0.1,0.1,0.1
+NV,ethoprop,0.015,0.015,0.015
+NV,germanium,0.15,0.23983846153846153,2.5
+NV,manganese,0.2,3.1050884615384615,110.0
+NV,o-toluidine,0.0035,0.0052439999999999995,0.38
+NV,oxyfluorfen,0.025,0.025,0.025
+NV,profenofos,0.15,0.15144531249999998,0.52
+NV,quinoline,0.01,0.01,0.01
+NV,tebuconazole,0.1,0.1,0.1
+NV,total microcystin,0.15,0.15,0.15
+NV,total permethrin,0.02,0.02,0.02
+NV,tribufos,0.035,0.035,0.035
+NY,1-butanol,1.0,1.01003550295858,6.14
+NY,2-methoxyethanol,0.2,0.2001597633136095,0.47
+NY,2-propen-1-ol,0.25,0.2512426035502959,1.5
+NY,HAA5,0.0,22.440074916318185,103.9
+NY,HAA6Br,0.0,5.5301013622727275,35.2
+NY,HAA9,0.0,27.35094713172727,109.87
+NY,alpha-hexachlorocyclohexane,0.005,0.005100415923945336,0.16
+NY,anatoxin-a,0.015,0.015000000000000001,0.015
+NY,butylated hydroxyanisole,0.015,0.015,0.015
+NY,chlorpyrifos,0.015,0.014999999999999998,0.015
+NY,cylindrospermopsin,0.045,0.045,0.045
+NY,dimethipin,0.1,0.1,0.1
+NY,ethoprop,0.015,0.015,0.015
+NY,germanium,0.15,0.15635621787383178,7.826845
+NY,manganese,0.2,14.107088693925235,2020.0
+NY,microcystin-LA,0.063,0.063,0.063
+NY,microcystin-LF,0.003,0.003,0.003
+NY,microcystin-LR,0.01,0.01,0.01
+NY,microcystin-LY,0.0045,0.0045,0.0045
+NY,microcystin-RR,0.003,0.003,0.003
+NY,microcystin-YR,0.01,0.01,0.01
+NY,nodularin,0.0025,0.0025,0.0025
+NY,o-toluidine,0.0035,0.0035247184350918792,0.0247
+NY,oxyfluorfen,0.025,0.025,0.025
+NY,profenofos,0.15,0.15,0.15
+NY,quinoline,0.01,0.01002371072910492,0.039
+NY,tebuconazole,0.1,0.1,0.1
+NY,total microcystin,0.15,0.1509047619047619,0.83
+NY,total permethrin,0.02,0.020053475935828877,0.082
+NY,tribufos,0.035,0.035,0.035
+OH,1-butanol,1.0,1.3213692307692309,34.2
+OH,2-methoxyethanol,0.2,0.6975353846153847,125.36
+OH,2-propen-1-ol,0.25,0.25227692307692307,1.1
+OH,HAA5,0.0,18.936396739130437,80.58
+OH,HAA6Br,0.0,8.49477741020794,42.89
+OH,HAA9,0.0,26.11928142722117,96.48
+OH,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+OH,anatoxin-a,0.015,0.015274427860696518,0.128
+OH,butylated hydroxyanisole,0.015,0.015000000000000001,0.015
+OH,chlorpyrifos,0.015,0.015024332810047095,0.0305
+OH,cylindrospermopsin,0.045,0.045,0.045
+OH,dimethipin,0.1,0.10235007849293563,1.04
+OH,ethoprop,0.015,0.015027672955974842,0.0326
+OH,germanium,0.15,0.15025037936267072,0.315
+OH,manganese,0.2,4.034136570561457,868.05
+OH,o-toluidine,0.0035,0.0035,0.0035
+OH,oxyfluorfen,0.025,0.025055886970172685,0.0606
+OH,profenofos,0.15,0.15049293563579277,0.464
+OH,quinoline,0.01,0.01,0.01
+OH,tebuconazole,0.1,0.1,0.1
+OH,total microcystin,0.15,0.15,0.15
+OH,total permethrin,0.02,0.02,0.02
+OH,tribufos,0.035,0.035,0.035
+OK,1-butanol,1.0,1.0,1.0
+OK,2-methoxyethanol,0.2,0.2,0.2
+OK,2-propen-1-ol,0.25,0.25,0.25
+OK,HAA5,0.0,30.408019543973943,321.207
+OK,HAA6Br,0.0,14.851794788273617,66.721
+OK,HAA9,0.0,42.87240173724213,342.335
+OK,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+OK,anatoxin-a,0.015,0.014999999999999998,0.015
+OK,butylated hydroxyanisole,0.015,0.015,0.015
+OK,chlorpyrifos,0.015,0.015,0.015
+OK,cylindrospermopsin,0.045,0.045,0.045
+OK,dimethipin,0.1,0.1,0.1
+OK,ethoprop,0.015,0.015,0.015
+OK,germanium,0.15,0.15723046875,1.35
+OK,manganese,0.2,3.409241796875,190.0
+OK,o-toluidine,0.0035,0.0038531578947368418,0.09752
+OK,oxyfluorfen,0.025,0.025,0.025
+OK,profenofos,0.15,0.15,0.15
+OK,quinoline,0.01,0.010111481481481482,0.05318
+OK,tebuconazole,0.1,0.1,0.1
+OK,total microcystin,0.15,0.15,0.15
+OK,total permethrin,0.02,0.02,0.02
+OK,tribufos,0.035,0.035,0.035
+OR,1-butanol,1.0,1.0,1.0
+OR,2-methoxyethanol,0.2,0.20000000000000004,0.2
+OR,2-propen-1-ol,0.25,0.25,0.25
+OR,HAA5,0.0,20.919546712802767,72.0
+OR,HAA6Br,0.0,2.757521337946944,26.48
+OR,HAA9,0.0,23.49497808535179,77.1
+OR,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+OR,anatoxin-a,0.015,0.01503896103896104,0.036
+OR,butylated hydroxyanisole,0.015,0.015000000000000001,0.015
+OR,chlorpyrifos,0.015,0.015,0.015
+OR,cylindrospermopsin,0.045,0.045,0.045
+OR,dimethipin,0.1,0.1,0.1
+OR,ethoprop,0.015,0.015,0.015
+OR,germanium,0.15,0.20501715686274508,2.9
+OR,manganese,0.2,26.523186274509808,520.0
+OR,microcystin-LA,0.004,0.004,0.004
+OR,microcystin-LF,0.003,0.003,0.003
+OR,microcystin-LR,0.01,0.01,0.01
+OR,microcystin-LY,0.0045,0.0045,0.0045
+OR,microcystin-RR,0.003,0.003,0.003
+OR,microcystin-YR,0.01,0.01,0.01
+OR,nodularin,0.0025,0.0025,0.0025
+OR,o-toluidine,0.0035,0.0035,0.0035
+OR,oxyfluorfen,0.025,0.025,0.025
+OR,profenofos,0.15,0.15,0.15
+OR,quinoline,0.01,0.010238271604938273,0.0655
+OR,tebuconazole,0.1,0.1,0.1
+OR,total microcystin,0.15,0.1503605313092979,0.34
+OR,total permethrin,0.02,0.02,0.02
+OR,tribufos,0.035,0.035,0.035
+PA,1-butanol,1.0,1.0202139037433156,14.0
+PA,2-methoxyethanol,0.2,0.2010891089108911,1.2
+PA,2-propen-1-ol,0.25,0.25025133282559026,0.58
+PA,HAA5,0.0,22.643382482556007,201.475
+PA,HAA6Br,0.0,5.937838186509399,47.3
+PA,HAA9,0.0,28.067805565794323,212.655
+PA,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+PA,anatoxin-a,0.015,0.015024940617577196,0.039
+PA,butylated hydroxyanisole,0.015,0.015104006163328198,0.15
+PA,chlorpyrifos,0.015,0.015,0.015
+PA,cylindrospermopsin,0.045,0.045,0.045
+PA,dimethipin,0.1,0.10012198912198912,0.257
+PA,ethoprop,0.015,0.015,0.015
+PA,germanium,0.15,0.17930980683506687,32.0
+PA,manganese,0.2,14.893486627043092,2500.0
+PA,o-toluidine,0.0035,0.0035,0.0035
+PA,oxyfluorfen,0.025,0.025000000000000005,0.025
+PA,profenofos,0.15,0.15,0.15
+PA,quinoline,0.01,0.01,0.01
+PA,tebuconazole,0.1,0.10000000000000002,0.1
+PA,total microcystin,0.15,0.15,0.15
+PA,total permethrin,0.02,0.02,0.02
+PA,tribufos,0.035,0.035,0.035
+PR,1-butanol,1.0,1.175531914893617,100.0
+PR,2-methoxyethanol,0.2,0.2,0.2
+PR,2-propen-1-ol,0.25,0.25,0.25
+PR,HAA5,0.0,28.947082875098193,175.67
+PR,HAA6Br,0.0,18.02852485062893,69.75
+PR,HAA9,0.0,45.88786879716981,187.84
+PR,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+PR,anatoxin-a,0.015,0.015,0.015
+PR,butylated hydroxyanisole,0.015,0.015,0.015
+PR,chlorpyrifos,0.015,0.015,0.015
+PR,cylindrospermopsin,0.045,0.04499999999999999,0.045
+PR,dimethipin,0.1,0.1,0.1
+PR,ethoprop,0.015,0.015,0.015
+PR,germanium,0.15,0.15030511463844798,0.323
+PR,manganese,0.2,4.05057319223986,297.73
+PR,o-toluidine,0.0035,0.0035,0.0035
+PR,oxyfluorfen,0.025,0.025,0.025
+PR,profenofos,0.15,0.15,0.15
+PR,quinoline,0.01,0.01,0.01
+PR,tebuconazole,0.1,0.1,0.1
+PR,total microcystin,0.15,0.15,0.15
+PR,total permethrin,0.02,0.02,0.02
+PR,tribufos,0.035,0.035,0.035
+RI,1-butanol,1.0,1.0295238095238095,4.1
+RI,2-methoxyethanol,0.2,0.2,0.2
+RI,2-propen-1-ol,0.25,0.25,0.25
+RI,HAA5,0.65,16.055413851351354,46.48
+RI,HAA6Br,0.0,4.680074324324324,26.686
+RI,HAA9,0.65,19.894420608108106,62.37
+RI,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+RI,anatoxin-a,0.015,0.015,0.015
+RI,butylated hydroxyanisole,0.015,0.015000000000000001,0.015
+RI,chlorpyrifos,0.015,0.015,0.015
+RI,cylindrospermopsin,0.045,0.045,0.045
+RI,dimethipin,0.1,0.1,0.1
+RI,ethoprop,0.015,0.015,0.015
+RI,germanium,0.15,0.15,0.15
+RI,manganese,0.2,44.906752380952376,554.0
+RI,o-toluidine,0.0035,0.0035,0.0035
+RI,oxyfluorfen,0.025,0.025,0.025
+RI,profenofos,0.15,0.15,0.15
+RI,quinoline,0.01,0.01,0.01
+RI,tebuconazole,0.1,0.1,0.1
+RI,total microcystin,0.15,0.15,0.15
+RI,total permethrin,0.02,0.02,0.02
+RI,tribufos,0.035,0.035,0.035
+SC,1-butanol,1.0,1.006458553791887,2.29
+SC,2-methoxyethanol,0.2,0.2034867724867725,1.05
+SC,2-propen-1-ol,0.25,0.25,0.25
+SC,HAA5,0.0,19.23456847360913,109.58
+SC,HAA6Br,0.0,4.481259629101284,35.375
+SC,HAA9,0.0,23.385712553495008,115.107
+SC,alpha-hexachlorocyclohexane,0.005,0.00501038062283737,0.011
+SC,anatoxin-a,0.015,0.015,0.015
+SC,butylated hydroxyanisole,0.015,0.015,0.015
+SC,chlorpyrifos,0.015,0.015,0.015
+SC,cylindrospermopsin,0.045,0.045,0.045
+SC,dimethipin,0.1,0.1,0.1
+SC,ethoprop,0.015,0.015,0.015
+SC,germanium,0.15,0.15398453608247423,0.669
+SC,manganese,0.2,9.082417525773195,1120.0
+SC,o-toluidine,0.0035,0.0034999999999999996,0.0035
+SC,oxyfluorfen,0.025,0.025,0.025
+SC,profenofos,0.15,0.15,0.15
+SC,quinoline,0.01,0.010079790940766551,0.0281
+SC,tebuconazole,0.1,0.1,0.1
+SC,total microcystin,0.15,0.15,0.15
+SC,total permethrin,0.02,0.02,0.02
+SC,tribufos,0.035,0.035,0.035
+SD,1-butanol,1.0,1.0523326732673268,4.9756
+SD,2-methoxyethanol,0.2,0.20000000000000004,0.2
+SD,2-propen-1-ol,0.25,0.25,0.25
+SD,HAA5,0.245,18.3182688172043,55.841
+SD,HAA6Br,0.0,8.70655376344086,26.0
+SD,HAA9,0.258,25.367064516129034,64.463
+SD,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+SD,anatoxin-a,0.015,0.015,0.015
+SD,butylated hydroxyanisole,0.015,0.015,0.015
+SD,chlorpyrifos,0.015,0.015,0.015
+SD,cylindrospermopsin,0.045,0.045,0.045
+SD,dimethipin,0.1,0.10000000000000002,0.1
+SD,ethoprop,0.015,0.015,0.015
+SD,germanium,0.15,0.15717171717171716,0.43
+SD,manganese,0.2,52.12149494949495,2600.0
+SD,o-toluidine,0.0035,0.003704255319148936,0.017
+SD,oxyfluorfen,0.025,0.025000000000000005,0.025
+SD,profenofos,0.15,0.15,0.15
+SD,quinoline,0.01,0.01,0.01
+SD,tebuconazole,0.1,0.10000000000000002,0.1
+SD,total microcystin,0.15,0.15,0.15
+SD,total permethrin,0.02,0.02,0.02
+SD,tribufos,0.035,0.035,0.035
+TN,1-butanol,1.0,1.0276932826362484,11.0
+TN,2-methoxyethanol,0.2,0.20026362484157162,0.408
+TN,2-propen-1-ol,0.25,0.2509125475285171,0.97
+TN,HAA5,0.0,28.669817026378897,252.5
+TN,HAA6Br,0.0,5.221091127098322,26.8
+TN,HAA9,0.0,33.56489664268585,256.8
+TN,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+TN,anatoxin-a,0.015,0.01506889325474787,0.061
+TN,butylated hydroxyanisole,0.015,0.015,0.015
+TN,chlorpyrifos,0.015,0.015,0.015
+TN,cylindrospermopsin,0.045,0.04499999999999999,0.045
+TN,dimethipin,0.1,0.10000000000000002,0.1
+TN,ethoprop,0.015,0.015,0.015
+TN,germanium,0.15,0.15048780487804878,0.55
+TN,manganese,0.2,2.9254853658536586,113.0
+TN,o-toluidine,0.0035,0.0036244332493702773,0.026
+TN,oxyfluorfen,0.025,0.025000000000000005,0.025
+TN,profenofos,0.15,0.15,0.15
+TN,quinoline,0.01,0.01,0.01
+TN,tebuconazole,0.1,0.10000000000000002,0.1
+TN,total microcystin,0.15,0.15,0.15
+TN,total permethrin,0.02,0.02,0.02
+TN,tribufos,0.035,0.035,0.035
+TX,1-butanol,1.0,1.0879886506935688,113.5
+TX,2-methoxyethanol,0.2,0.20045397225725095,0.94
+TX,2-propen-1-ol,0.25,0.25,0.25
+TX,HAA5,0.0,17.11552425677883,374.1
+TX,HAA6Br,0.0,13.376622231296961,445.64
+TX,HAA9,0.0,26.63477210062071,654.24
+TX,alpha-hexachlorocyclohexane,0.005,0.005015784586815227,0.031
+TX,anatoxin-a,0.015,0.01672204705311666,0.405
+TX,butylated hydroxyanisole,0.015,0.015,0.015
+TX,chlorpyrifos,0.015,0.015,0.015
+TX,cylindrospermopsin,0.045,0.04537351443123939,0.41
+TX,dimethipin,0.1,0.1,0.1
+TX,ethoprop,0.015,0.015,0.015
+TX,germanium,0.15,0.21816809290953545,7.3
+TX,manganese,0.2,6.668467135432589,547.0
+TX,microcystin-LA,0.004,0.004,0.004
+TX,microcystin-LF,0.0066,0.0066,0.0066
+TX,microcystin-LR,0.079,0.079,0.079
+TX,microcystin-LY,0.0045,0.0045,0.0045
+TX,microcystin-RR,0.15,0.15,0.15
+TX,microcystin-YR,0.01,0.01,0.01
+TX,nodularin,0.0025,0.0025,0.0025
+TX,o-toluidine,0.0035,0.0035449079754601228,0.034
+TX,oxyfluorfen,0.025,0.025010523057876818,0.059
+TX,profenofos,0.15,0.15,0.15
+TX,quinoline,0.01,0.010014351425942964,0.0247
+TX,tebuconazole,0.1,0.1,0.1
+TX,total microcystin,0.15,0.15005901155642978,0.39
+TX,total permethrin,0.02,0.02001423707830393,0.066
+TX,tribufos,0.035,0.035,0.035
+Tribal PWS,1-butanol,1.0,1.010344827586207,2.2
+Tribal PWS,2-methoxyethanol,0.2,0.2,0.2
+Tribal PWS,2-propen-1-ol,0.25,0.25,0.25
+Tribal PWS,HAA5,0.0,16.30124025974026,77.108
+Tribal PWS,HAA6Br,0.0,6.95498051948052,67.5
+Tribal PWS,HAA9,0.0,21.30072077922078,83.464
+Tribal PWS,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+Tribal PWS,anatoxin-a,0.015,0.014999999999999998,0.015
+Tribal PWS,butylated hydroxyanisole,0.015,0.015,0.015
+Tribal PWS,chlorpyrifos,0.015,0.015,0.015
+Tribal PWS,cylindrospermopsin,0.045,0.045,0.045
+Tribal PWS,dimethipin,0.1,0.1,0.1
+Tribal PWS,ethoprop,0.015,0.015,0.015
+Tribal PWS,germanium,0.15,0.23669747899159663,0.95
+Tribal PWS,manganese,0.2,17.45801680672269,920.0
+Tribal PWS,o-toluidine,0.0035,0.003604545454545455,0.015
+Tribal PWS,oxyfluorfen,0.025,0.025,0.025
+Tribal PWS,profenofos,0.15,0.15,0.15
+Tribal PWS,quinoline,0.01,0.01,0.01
+Tribal PWS,tebuconazole,0.1,0.1,0.1
+Tribal PWS,total microcystin,0.15,0.15,0.15
+Tribal PWS,total permethrin,0.02,0.02,0.02
+Tribal PWS,tribufos,0.035,0.035,0.035
+UT,1-butanol,1.0,1.3287933834586467,101.5552
+UT,2-methoxyethanol,0.2,0.20060210526315791,0.6004
+UT,2-propen-1-ol,0.25,0.25,0.25
+UT,HAA5,0.0,14.677809210526314,127.33
+UT,HAA6Br,0.0,5.114480994152046,24.267
+UT,HAA9,0.0,19.139639619883038,137.17
+UT,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+UT,anatoxin-a,0.015,0.015000000000000001,0.015
+UT,butylated hydroxyanisole,0.015,0.015,0.015
+UT,chlorpyrifos,0.015,0.015,0.015
+UT,cylindrospermopsin,0.045,0.045,0.045
+UT,dimethipin,0.1,0.1,0.1
+UT,ethoprop,0.015,0.015,0.015
+UT,germanium,0.15,0.16477477477477476,1.4
+UT,manganese,0.2,7.192896396396397,800.0
+UT,o-toluidine,0.0035,0.003860307692307692,0.15
+UT,oxyfluorfen,0.025,0.025,0.025
+UT,profenofos,0.15,0.15,0.15
+UT,quinoline,0.01,0.010020507692307692,0.02333
+UT,tebuconazole,0.1,0.1,0.1
+UT,total microcystin,0.15,0.15,0.15
+UT,total permethrin,0.02,0.02,0.02
+UT,tribufos,0.035,0.035,0.035
+VA,1-butanol,1.0,1.0021639928698753,2.214
+VA,2-methoxyethanol,0.2,0.2,0.2
+VA,2-propen-1-ol,0.25,0.25,0.25
+VA,HAA5,0.0,22.772337638376385,106.65
+VA,HAA6Br,0.0,5.453186346863468,24.9
+VA,HAA9,0.0,27.853877613776138,111.33
+VA,alpha-hexachlorocyclohexane,0.005,0.005010695187165775,0.011
+VA,anatoxin-a,0.015,0.015468585365853658,0.3603
+VA,butylated hydroxyanisole,0.015,0.014999999999999998,0.015
+VA,chlorpyrifos,0.015,0.014999999999999998,0.015
+VA,cylindrospermopsin,0.045,0.045,0.045
+VA,dimethipin,0.1,0.1,0.1
+VA,ethoprop,0.015,0.014999999999999998,0.015
+VA,germanium,0.15,0.15230496453900708,0.54
+VA,manganese,0.2,10.72224645390071,502.0
+VA,o-toluidine,0.0035,0.0035,0.0035
+VA,oxyfluorfen,0.025,0.025,0.025
+VA,profenofos,0.15,0.15,0.15
+VA,quinoline,0.01,0.010020196078431373,0.02133
+VA,tebuconazole,0.1,0.1,0.1
+VA,total microcystin,0.15,0.15,0.15
+VA,total permethrin,0.02,0.02,0.02
+VA,tribufos,0.035,0.035,0.035
+VI,1-butanol,1.0,4.6757333333333335,21.0
+VI,2-methoxyethanol,0.2,0.2,0.2
+VI,2-propen-1-ol,0.25,0.25,0.25
+VI,HAA5,0.0,14.6665,254.78
+VI,HAA6Br,0.0,3.3775,16.04
+VI,HAA9,0.0,16.0275,269.04
+VI,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+VI,anatoxin-a,0.015,0.015,0.015
+VI,butylated hydroxyanisole,0.015,0.015000000000000001,0.015
+VI,chlorpyrifos,0.015,0.015000000000000001,0.015
+VI,cylindrospermopsin,0.045,0.045,0.045
+VI,dimethipin,0.1,0.1,0.1
+VI,ethoprop,0.015,0.015000000000000001,0.015
+VI,germanium,0.15,0.15,0.15
+VI,manganese,0.2,1.3302222222222224,6.4
+VI,o-toluidine,0.0035,0.0035,0.0035
+VI,oxyfluorfen,0.025,0.025,0.025
+VI,profenofos,0.15,0.15,0.15
+VI,quinoline,0.01,0.01,0.01
+VI,tebuconazole,0.1,0.1,0.1
+VI,total microcystin,0.15,0.15,0.15
+VI,total permethrin,0.02,0.02,0.02
+VI,tribufos,0.035,0.035,0.035
+VT,1-butanol,1.0,1.0,1.0
+VT,2-methoxyethanol,0.2,0.2,0.2
+VT,2-propen-1-ol,0.25,0.25,0.25
+VT,HAA5,0.0,25.972038461538464,78.06
+VT,HAA6Br,0.0,1.8937788461538463,5.8
+VT,HAA9,0.0,27.833480769230768,80.602
+VT,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+VT,anatoxin-a,0.015,0.015000000000000001,0.015
+VT,butylated hydroxyanisole,0.015,0.015,0.015
+VT,chlorpyrifos,0.015,0.015,0.015
+VT,cylindrospermopsin,0.045,0.04499999999999999,0.045
+VT,dimethipin,0.1,0.1,0.1
+VT,ethoprop,0.015,0.015,0.015
+VT,germanium,0.15,0.15,0.15
+VT,manganese,0.2,16.247071428571427,200.975
+VT,o-toluidine,0.0035,0.0034999999999999996,0.0035
+VT,oxyfluorfen,0.025,0.025,0.025
+VT,profenofos,0.15,0.15,0.15
+VT,quinoline,0.01,0.01,0.01
+VT,tebuconazole,0.1,0.1,0.1
+VT,total microcystin,0.15,0.15,0.15
+VT,total permethrin,0.02,0.02,0.02
+VT,tribufos,0.035,0.035,0.035
+WA,1-butanol,1.0,1.017801287948482,13.0
+WA,2-methoxyethanol,0.2,0.20023183072677095,0.452
+WA,2-propen-1-ol,0.25,0.25,0.25
+WA,HAA5,0.0,19.0243116966581,130.8
+WA,HAA6Br,0.0,1.7389691516709511,16.72
+WA,HAA9,0.0,20.59793701799486,131.32
+WA,alpha-hexachlorocyclohexane,0.005,0.005009066183136899,0.015
+WA,anatoxin-a,0.015,0.015069018404907975,0.06
+WA,butylated hydroxyanisole,0.015,0.014999999999999998,0.015
+WA,chlorpyrifos,0.015,0.014999999999999998,0.015
+WA,cylindrospermopsin,0.045,0.045,0.045
+WA,dimethipin,0.1,0.1,0.1
+WA,ethoprop,0.015,0.014999999999999998,0.015
+WA,germanium,0.15,0.22753901996370235,6.8
+WA,manganese,0.2,15.807289473684213,1590.0
+WA,microcystin-LA,0.004,0.004,0.004
+WA,microcystin-LF,0.003,0.003,0.003
+WA,microcystin-LR,0.01,0.01,0.01
+WA,microcystin-LY,0.0045,0.0045,0.0045
+WA,microcystin-RR,0.003,0.003,0.003
+WA,microcystin-YR,0.01,0.01,0.01
+WA,nodularin,0.0025,0.0025,0.0025
+WA,o-toluidine,0.0035,0.0035237921604375573,0.024
+WA,oxyfluorfen,0.025,0.025,0.025
+WA,profenofos,0.15,0.15,0.15
+WA,quinoline,0.01,0.01022242479489517,0.15
+WA,tebuconazole,0.1,0.1,0.1
+WA,total microcystin,0.15,0.15026645768025076,0.32
+WA,total permethrin,0.02,0.02,0.02
+WA,tribufos,0.035,0.035,0.035
+WI,1-butanol,1.0,1.0497231726283047,8.8
+WI,2-methoxyethanol,0.2,0.20052410575427684,0.537
+WI,2-propen-1-ol,0.25,0.25,0.25
+WI,HAA5,0.0,10.525963613550815,53.124
+WI,HAA6Br,0.0,5.394483061480552,17.141
+WI,HAA9,0.0,15.057077791718946,57.357
+WI,alpha-hexachlorocyclohexane,0.005,0.005017080745341615,0.016
+WI,anatoxin-a,0.015,0.014999999999999998,0.015
+WI,butylated hydroxyanisole,0.015,0.014999999999999998,0.015
+WI,chlorpyrifos,0.015,0.015,0.015
+WI,cylindrospermopsin,0.045,0.045,0.045
+WI,dimethipin,0.1,0.1,0.1
+WI,ethoprop,0.015,0.015,0.015
+WI,germanium,0.15,0.1538066037735849,0.622
+WI,manganese,0.2,18.811853773584904,482.0
+WI,o-toluidine,0.0035,0.0035,0.0035
+WI,oxyfluorfen,0.025,0.025,0.025
+WI,profenofos,0.15,0.15,0.15
+WI,quinoline,0.01,0.01,0.01
+WI,tebuconazole,0.1,0.1,0.1
+WI,total microcystin,0.15,0.15,0.15
+WI,total permethrin,0.02,0.02003105590062112,0.04
+WI,tribufos,0.035,0.035,0.035
+WV,1-butanol,1.0,1.2155797101449275,24.591
+WV,2-methoxyethanol,0.2,0.7871449275362319,67.16
+WV,2-propen-1-ol,0.25,0.25,0.25
+WV,HAA5,0.0,22.178313981042653,108.9
+WV,HAA6Br,0.0,7.621317535545024,47.2
+WV,HAA9,0.0,28.896065165876777,112.1
+WV,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+WV,anatoxin-a,0.015,0.015000000000000001,0.015
+WV,butylated hydroxyanisole,0.015,0.014999999999999998,0.015
+WV,chlorpyrifos,0.015,0.015,0.015
+WV,cylindrospermopsin,0.045,0.045,0.045
+WV,dimethipin,0.1,0.1,0.1
+WV,ethoprop,0.015,0.015,0.015
+WV,germanium,0.15,0.15,0.15
+WV,manganese,0.2,7.0192302158273385,280.0
+WV,o-toluidine,0.0035,0.0035,0.0035
+WV,oxyfluorfen,0.025,0.025,0.025
+WV,profenofos,0.15,0.15,0.15
+WV,quinoline,0.01,0.010233576642335767,0.042
+WV,tebuconazole,0.1,0.1,0.1
+WV,total microcystin,0.15,0.15,0.15
+WV,total permethrin,0.02,0.02,0.02
+WV,tribufos,0.035,0.035,0.035
+WY,1-butanol,1.0,1.0,1.0
+WY,2-methoxyethanol,0.2,0.19999999999999998,0.2
+WY,2-propen-1-ol,0.25,0.25,0.25
+WY,HAA5,0.0,20.5804,65.555
+WY,HAA6Br,0.0,5.310984615384616,26.806
+WY,HAA9,0.0,25.52563076923077,85.855
+WY,alpha-hexachlorocyclohexane,0.005,0.005,0.005
+WY,anatoxin-a,0.015,0.015,0.015
+WY,butylated hydroxyanisole,0.015,0.015,0.015
+WY,chlorpyrifos,0.015,0.015,0.015
+WY,cylindrospermopsin,0.045,0.045,0.045
+WY,dimethipin,0.1,0.1,0.1
+WY,ethoprop,0.015,0.015,0.015
+WY,germanium,0.15,0.1945116279069767,1.6
+WY,manganese,0.2,5.055151162790698,60.0
+WY,o-toluidine,0.0035,0.0034999999999999996,0.0035
+WY,oxyfluorfen,0.025,0.025,0.025
+WY,profenofos,0.15,0.15,0.15
+WY,quinoline,0.01,0.01,0.01
+WY,tebuconazole,0.1,0.1,0.1
+WY,total microcystin,0.15,0.15,0.15
+WY,total permethrin,0.02,0.02,0.02
+WY,tribufos,0.035,0.035,0.035
